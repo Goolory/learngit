@@ -7,4 +7,5 @@ git commit -m "first commit"
 git remote add origin https://github.com/Goolory/learngit.git
 git push -u origin master
 
-hhhhhhhhaaaaaaaaa这是一个DeV分支
+创建D
+v分支
